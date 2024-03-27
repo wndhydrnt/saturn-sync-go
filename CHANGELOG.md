@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/wndhydrnt/saturn-sync-go/compare/v0.1.1...v0.2.0) (2024-03-27)
+
+
+### Features
+
+* Upgrade protocol to v0.5.0 ([da68a52](https://github.com/wndhydrnt/saturn-sync-go/commit/da68a52a9161f3b10443a8a1ad278c6553bf0fbf))
+
 ## [0.1.1](https://github.com/wndhydrnt/saturn-sync-go/compare/v0.1.0...v0.1.1) (2024-03-13)
 
 
